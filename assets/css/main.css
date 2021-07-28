@@ -73,7 +73,7 @@ input, select, textarea {
 }
 video{
 	background-repeat: no-repeat;
-    background-size: contain;
+    background-size: contain; 
 }
 
 /* Basic */
