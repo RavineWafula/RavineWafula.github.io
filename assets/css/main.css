@@ -71,10 +71,6 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-video{
-	background-repeat: no-repeat;
-    background-size: contain; 
-}
 
 /* Basic */
 
